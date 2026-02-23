@@ -26,4 +26,4 @@ Whether it's building SaaS platforms, engineering agentic workflows, or explorin
 
 <br>
 
-<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?bannerColor=%23ffffff&width=2000&height=200&color=%23175cdbaa&backgroundColor=%2300000000&waveHeight=20&waveComplexity=1&waveAmount=5" />
+<img src="https://zane-nostalgia.kiyo-n-zane.com/scenes/waves/api?bannerColor=%23ffffff&width=2500&height=200&color=%23175cdbaa&backgroundColor=%2300000000&waveHeight=20&waveComplexity=1&waveAmount=5" />
